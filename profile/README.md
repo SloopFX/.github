@@ -1,1 +1,1 @@
-Keep any AI on track with (Sloop)[https://sloop.ai]!
+Keep any AI on track with [Sloop](https://sloop.ai)!
